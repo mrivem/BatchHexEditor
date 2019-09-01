@@ -1,7 +1,9 @@
 # BatchHexEditor
 
-Batch Hex Editor v1.1
+Batch Hex Editor v1.2
 Author: Matías Rivera Maldonado @mrivem
+
+Small and to-the-point utility to make quick hex modifications to many files via an instructions file
 
 Usage:
 python BatchHex.py path_to_instruction_file
